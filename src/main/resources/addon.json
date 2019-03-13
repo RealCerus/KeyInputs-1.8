@@ -2,7 +2,7 @@
   "uuid": "%uuid%",
   "name": "Key Inputs",
   "mainClass": "de.cerus.keyinputs.KeyInputs",
-  "description": "This will send the keys you pressed to the server with this plugin: ",
+  "description": "This will send the keys you pressed to the server with this plugin: https://goo.gl/7fTgBV",
   "version": 1,
   "author": "Cerus",
   "category": 1,
