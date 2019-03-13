@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "Key Inputs",
+  "mainClass": "de.cerus.keyinputs.KeyInputs",
+  "description": "This will send the keys you pressed to the server with this plugin: ",
+  "version": 1,
+  "author": "Cerus",
+  "category": 1,
+  "icon": "https://img.cerus-dev.de/k.png"
+}
